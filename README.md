@@ -1,1 +1,1 @@
-# C++: from basics to OOP and memory model
+# C++: from Basics to OOP and Memory Model
